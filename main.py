@@ -11,7 +11,7 @@ from pytgcalls import PyTgCalls
 
 
 bot = Client(
-    ":memory:",
+    "music",
     API_ID,
     API_HASH,
     bot_token=BOT_TOKEN,
