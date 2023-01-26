@@ -10,7 +10,7 @@ from config import API_HASH, API_ID, BOT_TOKEN, SESSION_NAME
 from pytgcalls import PyTgCalls
 
 
-bot = Client(
+bot = Client("music"
     "music",
     API_ID,
     API_HASH,
